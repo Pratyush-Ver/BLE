@@ -1,6 +1,8 @@
 #!/usr/bin/python
 # SPDX-License-Identifier: LGPL-2.1-or-later
 
+# Tested script with Bluetooth group added for file
+
 from __future__ import absolute_import, print_function, unicode_literals
 
 import dbus
