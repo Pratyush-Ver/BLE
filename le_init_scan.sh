@@ -11,7 +11,7 @@ if [[ -n $dev_id ]]; then
   sleep 3
   btmgmt --index 0 static-addr FF:00:00:00:00:FF
   btmgmt --index 0 auto-power
-  python3 lescan.py
+  python3 T_lescan_OK.py
   echo "DONE"
 else
   echo "No device found"
