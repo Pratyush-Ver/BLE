@@ -11,3 +11,4 @@ HCI/MGMT (Bluez core binaries) based BLE scipts (successfull on iMX6 embedded li
 
 1. T_lescan_OK.py (scanner script as observer mode)
 
+beacon frame reference: https://ukbaz.github.io/howto/beacon_scan_cmd_line.html
